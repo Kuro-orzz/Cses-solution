@@ -11,7 +11,7 @@
 #include <sstream>
 #include <set>
 #include <map>
-#include <list>    
+#include <list>
 #include <iomanip>
 #include <climits>
 #define filein() freopen("test.inp", "r", stdin);
@@ -21,7 +21,7 @@
 #define MOD 1000000007
 #define N 100000
 using namespace std;
- 
+
 void solve(){
     ll n; cin >> n;
     while(n != 1){
@@ -33,12 +33,13 @@ void solve(){
     }
     cout << n;
 }
- 
+
 int main(){
     fast();
     //filein(); fileout();
     // int t; cin >> t;
     // while(t--)
-        solve(); 
+        solve();
     return 0;
 }
+
