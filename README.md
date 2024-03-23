@@ -13,4 +13,4 @@
 | Geometry              |      0/7      |
 | Advanced Techniques   |      0/24     |
 | Additional Problems   |      0/77     |
-| **Total**             |  **288/300**  |
+| **Total**             |   **36/300**  |
