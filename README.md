@@ -4,7 +4,7 @@
 |-----------------------|:-------------:|
 | Introductory Problems |      14/19    |
 | Sorting and Searching |      10/35    |
-| Dynamic Programming   |      5/19     |
+| Dynamic Programming   |      6/19     |
 | Graph Algorithms      |      6/36     |
 | Range Queries         |      7/19     |
 | Tree Algorithms       |      0/16     |
