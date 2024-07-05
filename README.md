@@ -7,7 +7,7 @@
 | Dynamic Programming   |      7/19     |
 | Graph Algorithms      |      6/36     |
 | Range Queries         |      7/19     |
-| Tree Algorithms       |      1/16     |
+| Tree Algorithms       |      3/16     |
 | Mathematics           |      6/31     |
 | String Algorithms     |      0/17     |
 | Geometry              |      0/7      |
