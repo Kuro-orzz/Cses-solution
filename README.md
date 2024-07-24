@@ -2,15 +2,15 @@
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |      16/19    |
+| Introductory Problems |      17/19    |
 | Sorting and Searching |      12/35    |
-| Dynamic Programming   |      9/19     |
+| Dynamic Programming   |     10/19     |
 | Graph Algorithms      |      6/36     |
-| Range Queries         |     10/19     |
+| Range Queries         |     12/19     |
 | Tree Algorithms       |      6/16     |
 | Mathematics           |      6/31     |
 | String Algorithms     |      0/17     |
 | Geometry              |      0/7      |
 | Advanced Techniques   |      0/24     |
 | Additional Problems   |      0/77     |
-| **Total**             |   **65/300**  |
+| **Total**             |   **69/300**  |
