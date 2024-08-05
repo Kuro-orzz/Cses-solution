@@ -3,7 +3,7 @@
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     17/19     |
-| Sorting and Searching |     14/35     |
+| Sorting and Searching |     17/35     |
 | Dynamic Programming   |     10/19     |
 | Graph Algorithms      |     10/36     |
 | Range Queries         |     12/19     |
@@ -13,4 +13,4 @@
 | Geometry              |      0/7      |
 | Advanced Techniques   |      0/24     |
 | Additional Problems   |      0/77     |
-| **Total**             |   **75/300**  |
+| **Total**             |   **78/300**  |
