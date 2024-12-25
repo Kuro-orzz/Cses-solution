@@ -7,10 +7,10 @@
 | Dynamic Programming   |     10/19     |
 | Graph Algorithms      |     10/36     |
 | Range Queries         |     14/19     |
-| Tree Algorithms       |      6/16     |
+| Tree Algorithms       |      8/16     |
 | Mathematics           |      7/31     |
 | String Algorithms     |      0/17     |
 | Geometry              |      0/7      |
 | Advanced Techniques   |      0/24     |
 | Additional Problems   |      0/77     |
-| **Total**             |   **82/300**  |
+| **Total**             |   **84/300**  |
