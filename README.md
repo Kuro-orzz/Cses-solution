@@ -12,5 +12,5 @@
 | String Algorithms     |      0/17     |
 | Geometry              |      0/7      |
 | Advanced Techniques   |      0/24     |
-| Additional Problems   |      0/77     |
-| **Total**             |   **86/300**  |
+| Additional Problems   |      1/77     |
+| **Total**             |   **87/300**  |
