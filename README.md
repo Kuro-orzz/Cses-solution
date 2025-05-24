@@ -11,7 +11,7 @@
 | Mathematics            |      7/37     |
 | String Algorithms      |      0/21     |
 | Geometry               |      1/16     |
-| Advanced Techniques    |      1/25     |
+| Advanced Techniques    |      2/25     |
 | Sliding Window Problems|      0/11     |
 | Interactive Problems   |      0/6      |
 | Bitwise Operations     |      0/11     |
@@ -20,4 +20,4 @@
 | Counting Problems      |      0/18     |
 | Additional Problems I  |      0/30     |
 | Additional Problems II |      0/30     |
-| **Total**              |   **91/404**  |
+| **Total**              |   **92/404**  |
