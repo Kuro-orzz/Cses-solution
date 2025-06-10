@@ -8,16 +8,16 @@
 | Graph Algorithms       |     11/36     |
 | Range Queries          |     15/29     |
 | Tree Algorithms        |     11/16     |
-| Mathematics            |      7/37     |
+| Mathematics            |     10/37     |
 | String Algorithms      |      0/21     |
 | Geometry               |      1/16     |
 | Advanced Techniques    |      2/25     |
 | Sliding Window Problems|      0/11     |
-| Interactive Problems   |      0/6      |
+| Interactive Problems   |      1/6      |
 | Bitwise Operations     |      0/11     |
 | Construction Problems  |      0/8      |
 | Advanced Graph Problems|      0/28     |
 | Counting Problems      |      0/18     |
 | Additional Problems I  |      0/30     |
 | Additional Problems II |      0/30     |
-| **Total**              |   **92/404**  |
+| **Total**              |   **96/404**  |
